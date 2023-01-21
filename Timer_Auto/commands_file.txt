@@ -1,0 +1,6 @@
+vlan 808
+name GAMER
+exit
+username TRON password 12345
+do sh ip int bri
+do wr
